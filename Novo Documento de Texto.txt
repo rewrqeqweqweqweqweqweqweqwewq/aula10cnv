@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+<meta charset="UTF-8"> <!-- configura a codificação de caracteres do navegador para o UTF-8-->
+<link rel="shortcut icon" href="Imagens/favicon.ico" type="image/x-icon"> <!-- Adiciona o ícone de aba de navegador-->
+
+<title>HOME - IFSP - Pirituba</title> <!-- Adiciona o título na aba do navegador-->
+
+</head>
+
+
+<body>
+
+
+<header id="cabecalho"> <!-- Indica o cabeçalho do nosso documento-->
+
+
+<img src="Imagens/Logo.jpg" alt=" " /> <!-- anexa imagem e texto alternativo-->
+<nav> <!-- Indica que o conteúdo é composto de links de navegação-->
+
+<p><b>Cursos</b></p>
+<ul> <!-- Estrutura de lista não ordenada -->
+<li><a href="#">Análise e Desenvolvimento de Sistemas</a></li>
+<li>
+<a href="#">Engenharia de Produção</a></li>
+<li><a href="#">Letras</a></li>
+<li><a href="#">Gestão Pública</a>
+</li>
+<li><a href="redes.html">Técnico em Redes de Computadores Integrado</a>
+</li>
+</ul>
+</nav>
+
+</header>
+
+
+<main> <!-- indica que é o conteúdo principal dessa página -->
+
+  
+<aside> <!-- indica que é um conteúdo a parte do principal, auxiliar-->
+    
+<p><b>Eventos</b></p>
+<figure>
+<img src="boar.jpg" alt="Palestra Seja Raro" width="50%" height="50%">
+
+<figcaption>NINGUÉM É MAIOR QUE O JAVALI</figcaption>
+</figure>
+</aside>
+</main>
+
+
+
+
+<footer>
+
+<br><br>
+
+
+  
+<p>
+  IFSP - Câmpus Pirituba - Av. Mutinga, 951 - Jardim Santo Elias - CEP: 05110-000 - São Paulo/SP - Contato: (011) 2504-0100
+  </p>
+
+</footer>
+
+
+
+
+
+
+</body>
+
+</html>
